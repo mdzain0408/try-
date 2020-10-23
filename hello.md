@@ -1,0 +1,1 @@
+0.5 * weight * speed* speed / 22500
